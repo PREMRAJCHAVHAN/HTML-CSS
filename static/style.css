@@ -1,0 +1,14 @@
+body{
+    font-family:Arial,sans-serif;
+    background-color: #a43535;
+    text-align: Center;
+    padding-top: 100px;
+}
+.Container{
+    background-color: rgb(229, 195, 195);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+    padding: 40px;
+
+}
